@@ -1,0 +1,2 @@
+com/example/hellokmm/android/BuildConfig.java
+ com.example.hellokmm.android.BuildConfig

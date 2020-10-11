@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /Users/bradyaiello/AndroidStudioProjects/HelloKMM/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/4b5146bc52fbfad67e41b53625744fdc/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9514893b66425cdc7c048181735fdd5/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f53a51d474089014eb2b2f8aa82dfd46/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/7ee844f0ab425509fe0c0bdccd260999/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/00f225a22c00680191e8c531e3fdaf14/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/aa188f8d8efb3c046c4637d5343af514/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/1dd99afdf790d55500a36eafb6c28967/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/073fb3dc8e6ab6dbd4acae8b3d0d8439/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/71655acac5099f686d2daec3a246d71d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ce876b3b1b01fe27d82dbec057735a10/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/0df5d741e227e4abb9947c340b1dc0e1/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/52f0c323db8d33872a4d8a42c8fafce8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/abd20e3be8e0083a3ccd1838d6154380/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/19dd79b92d055e46f0718fd013773276/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/fc98049efb8d07cda9b3afc043c501c6/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ef86b463379c3e18b162b79030f8817b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/8e961ce2faf75f32fbeea601690b7ef7/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9928e85c85932c497c3643b9bd312d2/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/a215ffce2f46273db40e948e3d90fcdc/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/b6c1b50dd4840325d8f0fb968fa3cabe/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/88d19789f85f6a5d02aa70d409cf6112/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ff11487ad26b1c84acdd4e373470e1da/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/d603042c052d1582dc201dc9118b9a2d/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/c12bfa096ce384b527e0d44262489945/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/d341d8eb893c58fb8cd13b5cca2d1108/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/cee4643dcf33b15d61b30d2d2dfa0851/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/0f6ef45dba54a74ba3a9267b67c6949c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/5fd22ecc31679e4324658bd79ed1f676/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:70-116
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:4:5-15:19
+MERGED from [com.google.android.material:material:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/4b5146bc52fbfad67e41b53625744fdc/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/4b5146bc52fbfad67e41b53625744fdc/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f53a51d474089014eb2b2f8aa82dfd46/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f53a51d474089014eb2b2f8aa82dfd46/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9928e85c85932c497c3643b9bd312d2/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9928e85c85932c497c3643b9bd312d2/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/b6c1b50dd4840325d8f0fb968fa3cabe/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/b6c1b50dd4840325d8f0fb968fa3cabe/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9928e85c85932c497c3643b9bd312d2/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:7:13-44
+activity#com.example.hellokmm.AndroidHelloKMM.MainActivity
+ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/bradyaiello/AndroidStudioProjects/HelloKMM/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/bradyaiello/AndroidStudioProjects/HelloKMM/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/4b5146bc52fbfad67e41b53625744fdc/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/4b5146bc52fbfad67e41b53625744fdc/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9514893b66425cdc7c048181735fdd5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9514893b66425cdc7c048181735fdd5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f53a51d474089014eb2b2f8aa82dfd46/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f53a51d474089014eb2b2f8aa82dfd46/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/7ee844f0ab425509fe0c0bdccd260999/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/7ee844f0ab425509fe0c0bdccd260999/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/00f225a22c00680191e8c531e3fdaf14/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/00f225a22c00680191e8c531e3fdaf14/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/aa188f8d8efb3c046c4637d5343af514/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/aa188f8d8efb3c046c4637d5343af514/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/1dd99afdf790d55500a36eafb6c28967/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/1dd99afdf790d55500a36eafb6c28967/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/073fb3dc8e6ab6dbd4acae8b3d0d8439/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/073fb3dc8e6ab6dbd4acae8b3d0d8439/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/71655acac5099f686d2daec3a246d71d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/71655acac5099f686d2daec3a246d71d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ce876b3b1b01fe27d82dbec057735a10/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ce876b3b1b01fe27d82dbec057735a10/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/0df5d741e227e4abb9947c340b1dc0e1/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/0df5d741e227e4abb9947c340b1dc0e1/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/52f0c323db8d33872a4d8a42c8fafce8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/52f0c323db8d33872a4d8a42c8fafce8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/abd20e3be8e0083a3ccd1838d6154380/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/abd20e3be8e0083a3ccd1838d6154380/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/19dd79b92d055e46f0718fd013773276/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/19dd79b92d055e46f0718fd013773276/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/fc98049efb8d07cda9b3afc043c501c6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/fc98049efb8d07cda9b3afc043c501c6/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ef86b463379c3e18b162b79030f8817b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ef86b463379c3e18b162b79030f8817b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/8e961ce2faf75f32fbeea601690b7ef7/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/8e961ce2faf75f32fbeea601690b7ef7/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9928e85c85932c497c3643b9bd312d2/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/f9928e85c85932c497c3643b9bd312d2/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/a215ffce2f46273db40e948e3d90fcdc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/a215ffce2f46273db40e948e3d90fcdc/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/b6c1b50dd4840325d8f0fb968fa3cabe/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/b6c1b50dd4840325d8f0fb968fa3cabe/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/88d19789f85f6a5d02aa70d409cf6112/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/88d19789f85f6a5d02aa70d409cf6112/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ff11487ad26b1c84acdd4e373470e1da/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/ff11487ad26b1c84acdd4e373470e1da/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/d603042c052d1582dc201dc9118b9a2d/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/d603042c052d1582dc201dc9118b9a2d/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/c12bfa096ce384b527e0d44262489945/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/c12bfa096ce384b527e0d44262489945/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/d341d8eb893c58fb8cd13b5cca2d1108/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/d341d8eb893c58fb8cd13b5cca2d1108/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/cee4643dcf33b15d61b30d2d2dfa0851/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/cee4643dcf33b15d61b30d2d2dfa0851/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/0f6ef45dba54a74ba3a9267b67c6949c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/0f6ef45dba54a74ba3a9267b67c6949c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/5fd22ecc31679e4324658bd79ed1f676/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bradyaiello/.gradle/caches/transforms-2/files-2.1/5fd22ecc31679e4324658bd79ed1f676/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+		ADDED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
+		INJECTED from /Users/bradyaiello/AndroidStudioProjects/HelloKMM/AndroidHelloKMM/src/main/AndroidManifest.xml
